@@ -5,7 +5,6 @@ This is my repository for the [Advent of Code 2022](https://adventofcode.com/202
 | AOC Day | Solution                     |
 | ------- | ---------------------------- |
 | Day 1   | [Check Solution](src/d1.rs)  |
-| Day 25  | [Check Solution](src/d25.rs) |
 
 ## How to run
 

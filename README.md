@@ -25,7 +25,7 @@ Check [README.md](code/rs/README.md) in the `rs` directory.
 
 ## Checklists
 
--   [ ] Day 1
+-   [x] Day 1
 
 ## License
 
