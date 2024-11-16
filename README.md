@@ -1,4 +1,4 @@
-# Advent of Code 2022 (Completed)
+# Advent of Code 2022 (Ongoing)
 
 ![AoC23](https://repository-images.githubusercontent.com/726431802/c8e91bfc-1db4-4fa8-93b2-dcb8cf18cc0c)
 
