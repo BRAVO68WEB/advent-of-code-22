@@ -1,0 +1,24 @@
+# Advent of Code 2022
+
+This is my repository for the [Advent of Code 2022](https://adventofcode.com/2022) challenge.
+
+| AOC Day | Solution                     |
+| ------- | ---------------------------- |
+| Day 1   | [Check Solution](src/d1.rs)  |
+| Day 25  | [Check Solution](src/d25.rs) |
+
+## How to run
+
+### Prerequisites
+
+-   [Rustup](https://rustup.rs/)
+
+### Run
+
+```bash
+cargo run
+```
+
+## License
+
+All solutions for [AoC 2022](https://adventofcode.com/2022) by BRAVO68WEB is licensed under [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/)

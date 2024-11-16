@@ -1,0 +1,26 @@
+[package]
+name = "aoc_2022"
+version = "0.1.0"
+edition = "2021"
+authors = ["BRAVO688WEB <hi@b68.dev>"]
+default-run = "aoc_2022"
+
+[dependencies]
+itertools = "0.13.0"
+num = "0.4.1"
+pathfinding = "4.4.0"
+rayon = "1.8.0"
+static_init = "1.0"
+lazy_static = "1.4.0"
+nom = "7"
+derivative = "2.2.0"
+eqsolver = "0.2.0"
+nalgebra = "0.33.2"
+
+[profile.release]
+lto = "fat"
+codegen-units = 1
+
+[[bin]]
+name = "day01"
+path = "src/d1.rs"
