@@ -24,3 +24,7 @@ codegen-units = 1
 [[bin]]
 name = "day01"
 path = "src/d1.rs"
+
+[[bin]]
+name = "day02"
+path = "src/d2.rs"

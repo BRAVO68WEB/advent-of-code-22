@@ -2,9 +2,10 @@
 
 This is my repository for the [Advent of Code 2022](https://adventofcode.com/2022) challenge.
 
-| AOC Day | Solution                     |
-| ------- | ---------------------------- |
-| Day 1   | [Check Solution](src/d1.rs)  |
+| AOC Day | Solution                    |
+| ------- | --------------------------- |
+| Day 1   | [Check Solution](src/d1.rs) |
+| Day 2   | [Check Solution](src/d2.rs) |
 
 ## How to run
 
