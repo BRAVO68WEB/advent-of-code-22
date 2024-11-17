@@ -1,6 +1,6 @@
 # Advent of Code 2022 (Ongoing)
 
-![AoC23](https://repository-images.githubusercontent.com/726431802/c8e91bfc-1db4-4fa8-93b2-dcb8cf18cc0c)
+![AoC22](https://repository-images.githubusercontent.com/726431802/c8e91bfc-1db4-4fa8-93b2-dcb8cf18cc0c)
 
 This is my repository for the [Advent of Code 2022](https://adventofcode.com/2022) challenge.
 
@@ -27,7 +27,8 @@ Check [README.md](code/rs/README.md) in the `rs` directory.
 
 -   [x] Day 1
 -   [x] Day 2
--   [ ] Day 3
+-   [x] Day 3
+-   [ ] Day 4
 
 ## License
 
