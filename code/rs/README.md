@@ -7,6 +7,7 @@ This is my repository for the [Advent of Code 2022](https://adventofcode.com/202
 | Day 1   | [Check Solution](src/d1.rs) |
 | Day 2   | [Check Solution](src/d2.rs) |
 | Day 3   | [Check Solution](src/d3.rs) |
+| Day 4   | [Check Solution](src/d4.rs) |
 
 ## How to run
 
