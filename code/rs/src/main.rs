@@ -1,4 +1,3 @@
-#![feature(postfix_match)]
 #![allow(clippy::must_use_candidate, clippy::missing_panics_doc)]
 
 #[allow(clippy::wildcard_imports)]
