@@ -5,6 +5,7 @@ import { partone as d4p1, parttwo as d4p2 } from "./04/code";
 import { partone as d5p1, parttwo as d5p2 } from "./05/code";
 import { partone as d6p1, parttwo as d6p2 } from "./06/code";
 import { partone as d7p1, parttwo as d7p2 } from "./07/code";
+import { partone as d8p1, parttwo as d8p2 } from "./08/code";
 
 const now_ts = Date.now();
 
@@ -47,6 +48,12 @@ console.log(``);
 console.log(`-- Day 7 --`);
 console.log(`Part 1: ${d7p1}`);
 console.log(`Part 2: ${d7p2}`);
+
+console.log(``);
+
+console.log(`-- Day 8 --`);
+console.log(`Part 1: ${d8p1}`);
+console.log(`Part 2: ${d8p2}`);
 
 console.log(``);
 
