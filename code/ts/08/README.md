@@ -1,3 +1,3 @@
-# Day 4: Camp Cleanup
+# Day 8: Treetop Tree House
 
-Read the [problem statement](https://adventofcode.com/2022/day/4) carefully.
+Read the [problem statement](https://adventofcode.com/2022/day/8) carefully.

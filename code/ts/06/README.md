@@ -1,3 +1,3 @@
-# Day 4: Camp Cleanup
+# Day 6: Tuning Trouble
 
-Read the [problem statement](https://adventofcode.com/2022/day/4) carefully.
+Read the [problem statement](https://adventofcode.com/2022/day/6) carefully.

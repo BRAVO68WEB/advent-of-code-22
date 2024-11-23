@@ -1,3 +1,3 @@
-# Day 4: Camp Cleanup
+# Day 7: No Space Left On Device
 
-Read the [problem statement](https://adventofcode.com/2022/day/4) carefully.
+Read the [problem statement](https://adventofcode.com/2022/day/7) carefully.
