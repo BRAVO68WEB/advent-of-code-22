@@ -13,6 +13,7 @@ import { partone as d12p1, parttwo as d12p2 } from "./12/code";
 import { partone as d13p1, parttwo as d13p2 } from "./13/code";
 import { partone as d14p1, parttwo as d14p2 } from "./14/code";
 import { partone as d15p1, parttwo as d15p2 } from "./15/code";
+import { partone as d16p1, parttwo as d16p2 } from "./16/code";
 
 const now_ts = Date.now();
 
@@ -103,6 +104,12 @@ console.log(``);
 console.log(`-- Day 15 --`);
 console.log(`Part 1: ${d15p1}`);
 console.log(`Part 2: ${d15p2}`);
+
+console.log(``);
+
+console.log(`-- Day 16 --`);
+console.log(`Part 1: ${d16p1}`);
+console.log(`Part 2: ${d16p2}`);
 
 console.log(``);
 
